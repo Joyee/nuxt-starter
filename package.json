@@ -17,7 +17,11 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@pinia/nuxt": "^0.5.1",
+    "ant-design-vue": "^4.2.3",
+    "less": "^4.2.0",
     "nuxt": "^3.11.2",
+    "pinia": "^2.1.7",
     "vue": "^3.4.27",
     "vue-router": "^4.3.2"
   },
@@ -25,6 +29,7 @@
     "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",
     "@ls-lint/ls-lint": "^2.2.3",
+    "@nuxtjs/tailwindcss": "^6.12.0",
     "eslint": "^9.4.0",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.5",
